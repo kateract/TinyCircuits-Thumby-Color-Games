@@ -1,0 +1,5 @@
+2048
+
+Smash together blocks to reach the number 2048! Think ahead to avoid running out of room to move blocks.
+
+Author: transistortest (early tester)

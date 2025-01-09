@@ -1,0 +1,5 @@
+Chess
+
+A smooth graphics demo of rainbow colored clouds.
+
+Author: transistortest (early tester)

@@ -1,0 +1,5 @@
+Solitaire
+
+Challenge yourself by strategically arranging all the cards in perfect order by suit and rank. 
+
+Author: Austinio (early tester)

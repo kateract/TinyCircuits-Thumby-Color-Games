@@ -1,0 +1,5 @@
+ThumbAtro
+
+Combine hands to try and get a high score.
+
+Author: Austinio

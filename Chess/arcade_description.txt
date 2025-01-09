@@ -1,0 +1,5 @@
+Chess
+
+Try to checkmate the computer's King!
+
+Author: Austinio (early tester)

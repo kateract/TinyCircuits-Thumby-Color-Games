@@ -1,0 +1,5 @@
+SongOfMorus
+
+Fight enemies and bosses while avoiding obstacles and trying not ot run out of life!
+
+Author: SunnyChowTheGuy (early tester)

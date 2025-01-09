@@ -1,0 +1,5 @@
+4Connect
+
+Play against a computer to be the first to algin 4 discs horizontally, vertically, or diagonally.
+
+Author: Austinio (early tester)
