@@ -9,8 +9,8 @@ import ast
 import pprint
 print("Starting URL list builder using Python in GH Action...")
 
-# Each game's asset is appended to the end of this, like https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MyGame/MyGame.py
-raw_url_base = "https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/"
+# Each game's asset is appended to the end of this, like https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/MyGame/MyGame.py
+raw_url_base = "https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/"
 
 # Open file that urls will be written to
 url_list_file = open("url_list.txt", "w")
