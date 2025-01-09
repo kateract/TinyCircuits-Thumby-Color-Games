@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/4Connect/icon.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/4Connect/play2.wav
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/4Connect/play1.wav
-NAME=129667
+SIZE=129667
 
 NAME=SongOfMorus
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/SongOfMorus/TitlePage.py
@@ -66,14 +66,14 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/SongOfMorus/GameObject.py
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/SongOfMorus/menu/logo.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/SongOfMorus/menu/press.bmp
-NAME=825918
+SIZE=825918
 
 NAME=Clouds
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Clouds/arcade_description.txt
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Clouds/arcade_title_video.mp4
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Clouds/main.py
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Clouds/icon.bmp
-NAME=12304
+SIZE=12304
 
 NAME=BustAThumb
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/BustAThumb/ready.wav
@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/BustAThumb/tex/bubble_purple.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/BustAThumb/tex/bubble_orange.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/BustAThumb/tex/thumbob_cry.bmp
-NAME=253680
+SIZE=253680
 
 NAME=Monstra
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Monstra/frogmanWandShot.py
@@ -207,7 +207,7 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Monstra/collision.py
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Monstra/mothmanLaserShot.py
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Monstra/mothman.py
-NAME=2113396
+SIZE=2113396
 
 NAME=Solitaire
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Solitaire/BiggerCards2.bmp
@@ -215,7 +215,7 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Solitaire/arcade_title_video.mp4
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Solitaire/main.py
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Solitaire/icon.bmp
-NAME=94057
+SIZE=94057
 
 NAME=Chess
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Chess/arcade_description.txt
@@ -232,7 +232,7 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Chess/board.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Chess/icon.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Chess/blue.png
-NAME=122405
+SIZE=122405
 
 NAME=PuzzleAttack
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/PuzzleAttack/logo.bmp
@@ -286,14 +286,14 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/PuzzleAttack/icon.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/PuzzleAttack/bg.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/PuzzleAttack/checkmark.bmp
-NAME=236025
+SIZE=236025
 
 NAME=Sand
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Sand/arcade_description.txt
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Sand/arcade_title_video.mp4
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Sand/main.py
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Sand/icon.bmp
-NAME=22100
+SIZE=22100
 
 NAME=2048
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/2048/tiles.bmp
@@ -306,7 +306,7 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/2048/main.py
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/2048/icon.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/2048/selectbox.bmp
-NAME=118410
+SIZE=118410
 
 NAME=ThumbAtro
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/ThumbAtro/money.wav
@@ -321,7 +321,7 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/ThumbAtro/title.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/ThumbAtro/icon.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/ThumbAtro/BiggerCards2read.bmp
-NAME=293949
+SIZE=293949
 
 NAME=Thumgeon_II
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Thumgeon_II/Water1_16bit.bmp
@@ -394,7 +394,7 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Thumgeon_II/FoodShopkeeperMouse-Sheet_16bit.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Thumgeon_II/Stone1Green_16bit.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Thumgeon_II/Player.py
-NAME=344918
+SIZE=344918
 
 NAME=Tagged
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Tagged/arcade_description.txt
@@ -406,7 +406,7 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Tagged/main.py
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Tagged/icon.bmp
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/Tagged/test_runner_frames_3_16bit.bmp
-NAME=84537
+SIZE=84537
 
 NAME=FloodLight
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/FloodLight/cursor.bmp
@@ -421,5 +421,5 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/m
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/FloodLight/arcade_title_video.mp4
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/FloodLight/main.py
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Color-Games/main/FloodLight/icon.bmp
-NAME=69833
+SIZE=69833
 
