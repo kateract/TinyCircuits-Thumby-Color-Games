@@ -1,0 +1,7 @@
+WallRacerC
+
+Race the Walls, now in color.
+
+Supports multiplayer using the link cable.
+
+On game modes and how to play open the help screen in the options.
