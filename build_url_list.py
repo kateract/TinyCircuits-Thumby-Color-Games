@@ -69,7 +69,7 @@ for pair in sortedPairsNewestAtLast:
     game_name = pair[1]
 
     game_size_bytes = addDirFilesToList(game_name, False)
-    url_list_file.write("NAME=" + str(game_size_bytes) + "\n")
+    url_list_file.write("SIZE=" + str(game_size_bytes) + "\n")
 
     url_list_file.write("\n")
     
