@@ -11,12 +11,12 @@ Create a game folder and include the following files:
 ```
 MyGameFolder
     - arcade_description.txt (required)
-    - arcade_title_video.webm or arcade_title_image.png (at least one or the other is required)
+    - arcade_title_video.webm, arcade_title_video.mp4, or arcade_title_image.png (at least one or the other is required)
     - ... (include any other game related files)
 ```
 
 1. **Make sure the description and .webm or .png files are named exactly as above**.
-2. When taking a screenshot or recording a video in the [simulator](https://color.thumby.us/code/), set the resolution to **8x: 1024x1024px**
+2. When submitting a game using a video recorded in the [simulator](https://color.thumby.us/code/), set the resolution to **8x: 1024x1024px** (images can be any resolution)
 
 NOTE: Other files and directories are allowed in your game, the above shows the required items and locations.
 

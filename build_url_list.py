@@ -15,20 +15,23 @@ raw_url_base = "https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thum
 # Open file that urls will be written to
 url_list_file = open("url_list.txt", "w")
 
-def addDirFilesToList(path, childDir, file_paths):
+def addDirFilesToList(path, childDir, game_size_bytes):
     if childDir == False:
         url_list_file.write("NAME=" + path + "\n")
     items = os.listdir(path)
+
     for item in items:
         abs_path = path + "/" + item
         
         if os.path.isdir(abs_path):
-            addDirFilesToList(abs_path, True, file_paths)
+            return addDirFilesToList(abs_path, True, game_size_bytes)
         else:
-            if ".webm" not in abs_path and ".png" not in abs_path and "arcade_description.txt" not in abs_path:
-                file_paths.append(abs_path)
+            if ".webm" not in abs_path and ".mp4" not in abs_path and ".png" not in abs_path and "arcade_description.txt" not in abs_path:
+                game_size_bytes += os.path.getsize(abs_path)
 
             url_list_file.write(raw_url_base + abs_path + "\n")
+    
+    return game_size_bytes
 
 
 topLevelItems = os.listdir()
@@ -62,9 +65,9 @@ sortedPairsNewestAtLast.reverse()
 
 for pair in sortedPairsNewestAtLast:
     game_name = pair[1]
-    file_paths = []
 
-    addDirFilesToList(game_name, False, file_paths)
+    game_size_bytes = addDirFilesToList(game_name, False, 0)
+    url_list_file.write("SIZE=" + str(game_size_bytes) + "\n")
 
     url_list_file.write("\n")
     
