@@ -1,0 +1,1 @@
+Sweep the screen for bombs. Once you clear all the safe spots you win. A to select and B to mark.
