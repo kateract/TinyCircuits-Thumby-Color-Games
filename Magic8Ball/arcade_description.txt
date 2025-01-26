@@ -1,0 +1,13 @@
+The classic fortune-telling trinket, in the palm of your hand.
+Includes optional rumble, and special responses of adjustable rarity, which can be disabled entirely if you prefer.
+
+Press A to shake, press B to open the menu.
+
+Version: 1.1
+Author: transistortester
+
+If you want to contact the author, please consider joining the official discord server - I'm usually lurking in there
+
+Changelog:
+1.1 - Reduced font filesize
+1.0 - Initial release
