@@ -1,0 +1,11 @@
+A complete port of the iconic animated music video
+
+Press B to stop the video
+Press A to print memory usage (if connected to a computer)
+Press RB to toggle framerate display (approximate)
+
+More information available at https://github.com/transistortester/thumby-bad-apple as well as in the description of https://www.youtube.com/watch?v=cyVtrq1OPQo
+
+Author: transistortester
+
+If you want to contact the author, please consider joining the official discord server - I'm usually lurking in there
