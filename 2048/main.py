@@ -555,8 +555,8 @@ while mainloop:
                 if fillcheat:
                     setgrid(fillpattern)
             
-            if engine_io.LB.is_just_pressed:
-                addtile()
+            #if engine_io.LB.is_just_pressed:
+            #    addtile()
             
             if engine_io.MENU.is_just_pressed or engine_io.A.is_just_pressed:
                 menu.show()
