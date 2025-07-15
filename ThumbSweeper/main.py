@@ -290,22 +290,22 @@ while True:
         
         if btn.MENU.is_just_pressed:
             break
-        elif btn.UP.is_just_pressed:
+        elif btn.UP.is_pressed_autorepeat:
             if posY > 0:
                 posY -= 1
             else:
                 posY = 13
-        elif btn.DOWN.is_just_pressed:
+        elif btn.DOWN.is_pressed_autorepeat:
             if posY < 13:
                 posY += 1
             else:
                 posY = 0
-        elif btn.LEFT.is_just_pressed:
+        elif btn.LEFT.is_pressed_autorepeat:
             if posX > 0:
                 posX -= 1
             else:
                 posX = 13
-        elif btn.RIGHT.is_just_pressed:
+        elif btn.RIGHT.is_pressed_autorepeat:
             if posX < 13:
                 posX += 1
             else:
