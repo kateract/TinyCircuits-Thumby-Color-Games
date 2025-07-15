@@ -2,11 +2,11 @@ import engine_main # type: ignore
 import engine # type: ignore
 import engine_draw # type: ignore
 import engine_io as btn # type: ignore
-from engine_io import rumble # type: ignore
 from engine_resources import TextureResource as txtr, FontResource as font # type: ignore
 from engine_draw import Color, set_background # type: ignore
 from engine_nodes import CameraNode, Sprite2DNode as sprt, Text2DNode as text # type: ignore
 from engine_math import Vector2, Vector3 # type: ignore
+from engine_animation import Delay
 import engine_save # type: ignore
 import math
 import framebuf # type: ignore
@@ -78,6 +78,12 @@ eight = framebuf.FrameBuffer(eightTxtr.data, eightTxtr.width, eightTxtr.height, 
 Screen = sprt(position = Vector2(63, 63),
             texture = screen,
             layer = 1)
+
+rumble_delay = Delay()
+def rumble(intensity=0.5, delay=90):
+    btn.rumble(intensity)
+    rumble_delay.start(delay, lambda _: btn.rumble(0.0))
+
 
 grid = []
 bomb = []
@@ -320,6 +326,7 @@ while True:
         elif btn.A.is_just_pressed:
             if grid[posY][posX] < 10 and grid[posY][posX] > 0:
                 if bomb[posY][posX] == 1:
+                    rumble()
                     reset()
                 else:
                     grid[posY][posX] = sweep(posX, posY, bomb, grid[posY][posX])
